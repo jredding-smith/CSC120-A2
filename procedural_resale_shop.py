@@ -52,7 +52,7 @@ def print_inventory():
         # For each item
         for item in inventory:
             # Print its details
-            print(f'{item["description"]} -- Processor Type: {item["processor_type"]} Hard Drive Capacity: {item["hard_drive_capacity"]} Memory: {item["memory"]} Operating System: {item["operating_system"]} Year Made: {item["year_made"]} Price:  {item["price"]}')
+            print(f'{item["description"]} -- Processor Type: {item["processor_type"]} Hard Drive Capacity: {item["hard_drive_capacity"]} Memory: {item["memory"]} Operating System: {item["operating_system"]} Year Made: {item["year_made"]} price:  {item["price"]}')
     else:
         print("No inventory to display.")
 

@@ -1,3 +1,4 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+- For me, this assignment was extremely confusing as I never done programming simular to this before and didnt know how to do it. The entire project made me extremely fustrated and the only thing that helped was tutoring hours. I was not able to go to office hours as office hours conflict with my class times entirly and makes it hard to attend those time. I think I would tell someone to go to office hours, take the assignment slow and dont let yourself get fustrated too easily 
